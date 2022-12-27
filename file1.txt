@@ -1,0 +1,8 @@
+Hello how are you ?
+what are you doing?
+feeling happy?
+yes?
+why are you sad?
+because of git?
+oh ok.
+let me teach git to you.
