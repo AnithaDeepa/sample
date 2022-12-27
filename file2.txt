@@ -1,0 +1,3 @@
+hey there 
+I am all alone here 
+learning git from the basic
